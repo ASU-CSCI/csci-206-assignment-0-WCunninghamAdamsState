@@ -1,5 +1,5 @@
 /*
-Author: Scott Schweizer
+Author: William Cunningham
 Course: CSCI-206
 Assignment: 0
 */
